@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋, I'm James Pico, a Software Engineer from Colorado! Pretty cool, eh?
+
+I am a big fan of languages, both spoken and computer. I have experience in full stack web development, algorithms, and cyber security. 
+
+### LinkedIn page
 
 <!--
 **JGPico/JGPico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
