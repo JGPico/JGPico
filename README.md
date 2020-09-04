@@ -27,12 +27,12 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 ## About Me
 • I'm looking to work in web development, cyber security, national defense, or military contracted software
 <br/>
-• [<p>My Resume</p>][Resume]
+• [My Resume](https://docs.google.com/document/d/18ujncDMxux-QZvx1U_M36gju-jAP7MguK4rrx-h-ROI/edit?usp=sharing)
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/james-pico/
-[Resume] : https://docs.google.com/document/d/18ujncDMxux-QZvx1U_M36gju-jAP7MguK4rrx-h-ROI/edit?usp=sharing
+
 <!--
 **JGPico/JGPico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
