@@ -24,6 +24,8 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 
 <img align="left" alt="PostgresSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 
+<br/>
+
 ## About Me
 • I'm looking to work in web development, cyber security, national defense, or military contracted software
 <br/>
