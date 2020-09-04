@@ -26,7 +26,8 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 
 ## About Me
 • I'm looking to work in web development, cyber security, national defense, or military contracted software
-• [My Resume][Resume]
+<br/>
+• [<p>My Resume</p>][Resume]
 
 <br />
 
