@@ -33,7 +33,6 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 <br/>
 • [My Resume](https://docs.google.com/document/d/18ujncDMxux-QZvx1U_M36gju-jAP7MguK4rrx-h-ROI/edit?usp=sharing)
  
- 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/james-pico/
