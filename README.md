@@ -35,6 +35,7 @@ I am a big fan of languages, both spoken and computer. I have experience in full
  
 <br />
 
+
 [linkedin]: https://www.linkedin.com/in/james-pico/
 
 <!--
