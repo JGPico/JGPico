@@ -8,9 +8,9 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 <br/>
 
 ## Languages and Tools:
-<img align="left" alt="GitHub" width="32px" src="https://camo.githubusercontent.com/e8dd57e8a1f1609a27dd99eb4ba9d05f7ad28ba2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667">
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/e8dd57e8a1f1609a27dd99eb4ba9d05f7ad28ba2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667">
 
-<img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/499a4eb8007d65c2f6373f2d9d5bc428e498f917/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769742e737667">
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/499a4eb8007d65c2f6373f2d9d5bc428e498f917/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769742e737667">
 
 <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
