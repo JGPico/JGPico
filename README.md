@@ -10,7 +10,7 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 
 ## Languages and Tools:
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png">
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
