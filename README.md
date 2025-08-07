@@ -10,9 +10,9 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 
 ## Languages and Tools:
 
-<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png">
 
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg">
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
@@ -28,9 +28,9 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 
 <img align="left" alt="PostgresSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 
-<img align="left" alt="Clojure" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/clojure.svg">
+<img align="left" alt="Clojure" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png">
 
-<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg">
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 
 <br/>
 
