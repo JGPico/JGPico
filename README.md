@@ -29,7 +29,7 @@ I am a big fan of languages, both spoken and computer. I have experience in full
 <br/>
 
 ## About Me
-• I'm looking to work in web development, cyber security, national defense, or military contracted software
+• Full Stack web developer and cyber security specialist.
  
 <br />
 
